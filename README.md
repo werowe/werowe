@@ -7,8 +7,9 @@ werowe@walkerrowe.com
 
 Paphos, Cyprus
 
-* [LinkedIn](https://www.linkedin.com/in/walkerrowe/)
-* [Walker Rowe Website](https://walkerrowe.com/)
+[LinkedIn](https://www.linkedin.com/in/walkerrowe/)  
+
+[Walker Rowe Website](https://walkerrowe.com/)
 
 
 ## Code Portfolio
