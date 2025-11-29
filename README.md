@@ -10,6 +10,7 @@ Paphos, Cyprus
 * [LinkedIn](https://www.linkedin.com/in/walkerrowe/)
 * [Walker Rowe Website](https://walkerrowe.com/)
 
+
 ## Code Portfolio
 - [Apache Spark PM (2016)](https://github.com/werowe/mist_preventive_maintenance_ml)
 - [Google Bert (2023)](https://github.com/werowe/bert/tree/main)
