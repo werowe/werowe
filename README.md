@@ -1,7 +1,10 @@
 # Walker Rowe
-**Data Scientist | Python Programmer**
-werowe@walkerrowe.com
-+357 97629604
+**Data Scientist | Python Programmer**  
+
+werowe@walkerrowe.com  
+
++357 97629604  
+
 Paphos, Cyprus
 
 * [LinkedIn](https://www.linkedin.com/in/walkerrowe/)
