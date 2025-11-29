@@ -1,5 +1,10 @@
 # Walker Rowe
 **Data Scientist | Python Programmer**
+werowe@walkerrowe.com
++357 97629604
+Paphos, Cyprus
+
+![](https://github.com/werowe/werowe/blob/main/me.JPG)
 
 ## Code Portfolio
 
