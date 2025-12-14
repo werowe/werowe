@@ -1,5 +1,5 @@
 # Walker Rowe
-**Tech Writer | Data Scientist | Python Programmer**  
+**Tech Writer | Educator | Data Scientist | Python Programmer**  
 
 werowe@walkerrowe.com  
 
