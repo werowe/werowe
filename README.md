@@ -27,7 +27,7 @@
 
 [![GPU Tiling Video](https://raw.githubusercontent.com/werowe/page_hypatia/main/img/gpu.png)](https://www.youtube.com/@TheSiliconSkeptic-e8g)
 
-Tech & AI commentary
+GPU/CUDA Long Form Technical Tutorials
 
 </td>
 <td align="center" width="50%">
@@ -36,7 +36,7 @@ Tech & AI commentary
 
 [![Random Forest Video](https://raw.githubusercontent.com/werowe/page_hypatia/main/img/rf.png)](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
 
-Python & Machine Learning tutorials
+Python & Machine Learning tutorials for own school [Hypatia Academy](https://hypatiaacademy.io/)
 
 </td>
 </tr>
