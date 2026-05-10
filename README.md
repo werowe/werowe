@@ -1,6 +1,6 @@
-# Walker Rowe
-
 <div align="center">
+
+# Walker Rowe
 
 **Tech Writer · Educator · Data Scientist · Python Programmer**
 
@@ -10,6 +10,38 @@
 [![Website](https://img.shields.io/badge/walkerrowe.com-222222?style=flat-square&logo=safari&logoColor=white)](https://walkerrowe.com/)
 [![YouTube](https://img.shields.io/badge/Silicon_Skeptic-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TheSiliconSkeptic-e8g)
 [![YouTube](https://img.shields.io/badge/Hypatia_Academy-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
+
+---
+
+![Walker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werowe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=werowe&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=werowe&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
