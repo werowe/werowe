@@ -90,7 +90,7 @@ Teaching gymnasium and lyceum students (ages 13–18) in Cyprus basic computer p
 | [K-Means Clustering](https://github.com/werowe/MLexamples) | 2023 | Unsupervised ML |
 | [Apache Insight ML Pipeline](https://github.com/werowe/InsightML) | 2020 | Data Engineering |
 | [LLM Chat with MySQL](https://github.com/werowe/LangChainRag) | 2025 | LangChain · RAG |
-| [Linear Regression](https://github.com/werowe/portfolio) | 2025 | Statistics |
+| [Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intro.ipynb) | 2026 | Statistics |
 | [Load CSV to MySQL](https://github.com/werowe/expenses) | 2025 | Data Engineering |
 | [Load Data to PostgreSQL](https://github.com/werowe/glue) | 2020 | Database |
 | [Spark Python UDF](https://github.com/werowe/SparkPythonUDF/tree/master) | 2019 | Apache Spark |
