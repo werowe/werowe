@@ -36,7 +36,7 @@ GPU/CUDA Long Form Technical Tutorials
 
 [![Random Forest Video](https://raw.githubusercontent.com/werowe/page_hypatia/main/img/rf.png)](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
 
-Python & Machine Learning tutorials for own school [Hypatia Academy](https://hypatiaacademy.io/)
+Python & ML tutorials 
 
 </td>
 </tr>
