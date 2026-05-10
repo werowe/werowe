@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://hypatiaacademy.io/img/logo.png" height="80" alt="Hypatia Academy"/>
+
 # Walker Rowe
 
 **Tech Writer · Educator · Data Scientist · Python Programmer**
@@ -11,15 +13,46 @@
 [![YouTube](https://img.shields.io/badge/Silicon_Skeptic-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TheSiliconSkeptic-e8g)
 [![YouTube](https://img.shields.io/badge/Hypatia_Academy-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
 
+</div>
+
 ---
 
-![Walker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=werowe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=werowe&layout=compact&theme=tokyonight&hide_border=true)
+## 📺 YouTube Channels
 
-![GitHub Streak](https://streak-stats.demolab.com?user=werowe&theme=tokyonight&hide_border=true)
+<table>
+<tr>
+<td align="center" width="50%">
 
-</div>
+**[Silicon Skeptic](https://www.youtube.com/@TheSiliconSkeptic-e8g)**
+
+[![GPU Tiling Video](https://raw.githubusercontent.com/werowe/page_hypatia/main/img/gpu.png)](https://www.youtube.com/@TheSiliconSkeptic-e8g)
+
+Tech & AI commentary
+
+</td>
+<td align="center" width="50%">
+
+**[Hypatia Academy](https://www.youtube.com/@hypatiaacademyprogrammingt1344)**
+
+[![Random Forest Video](https://raw.githubusercontent.com/werowe/page_hypatia/main/img/rf.png)](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
+
+Python & Machine Learning tutorials
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Teaching
+
+<img src="https://hypatiaacademy.io/img/hypatia.png" align="right" height="160" alt="Hypatia"/>
+
+**Founder & Sole Teacher — [Hypatia Academy Cyprus](https://hypatiaacademy.io/en/index.html)**
+
+Teaching gymnasium and lyceum students (ages 13–18) in Cyprus basic computer programming over the internet, using Python. Curriculum developed independently — [view it here](https://github.com/werowe/HypatiaAcademy/blob/master/README.md).
+
+<br clear="right"/>
 
 ---
 
@@ -68,14 +101,6 @@
 | [Android App — Sismos](https://github.com/werowe/sismos) | 2017 | Mobile |
 | [Android App — Santiago Aire](https://github.com/werowe/SantiagoAire) | 2017 | Mobile |
 | [**Teaching Python for Free — Hypatia Academy**](https://github.com/werowe/HypatiaAcademy/blob/master/README.md) | 2020–present | Education |
-
----
-
-## 🎓 Teaching
-
-**Founder & Sole Teacher — [Hypatia Academy Cyprus](https://hypatiaacademy.io/en/index.html)**
-
-Teaching gymnasium and lyceum students (ages 13–18) in Cyprus basic computer programming over the internet, using Python. Curriculum developed independently — [view it here](https://github.com/werowe/HypatiaAcademy/blob/master/README.md).
 
 ---
 
