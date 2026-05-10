@@ -12,6 +12,10 @@ Paphos, Cyprus
 [Walker Rowe Website](https://walkerrowe.com/)
 
 
+## YouTube Video Channels
+- [Silicon Skeptic](https://www.youtube.com/@TheSiliconSkeptic-e8g)
+- [Hypatia Academy](https://www.youtube.com/@hypatiaacademyprogrammingt1344)
+
 
 ## Code Portfolio
 - [Apache Spark PM (2016)](https://github.com/werowe/mist_preventive_maintenance_ml)
